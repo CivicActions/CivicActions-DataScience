@@ -3,7 +3,7 @@ type: team
 published: 1
 author: marlena-medford
 name: Marlena Medford
-image: marlena-medford
+image: marlena-medford.jpg
 categories:
  - 
 sidenav: docs
