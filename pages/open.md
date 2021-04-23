@@ -19,4 +19,4 @@ change is if we collaborate together.
 
 Open source Data Science projects CivicActions contributes to:
 
-* [USDS Digital Services Dashboard](_projects/usds-dash.md) 
+* [USDS Digital Services Dashboard](/projects/usds-dash) 
