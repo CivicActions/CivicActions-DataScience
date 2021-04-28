@@ -42,7 +42,7 @@ accessibility best practices.
 
 ## Known issues
 
-* [Open website accessibility issues](https://github.com/CivicActions/accessibility/labels/accessibility)
+* [Open website accessibility issues](https://github.com/CivicActions/datascience/labels/accessibility)
 * We can control the accessibility of the site, but not the accessibility of 
 GitHub. GitHub is reasonably accessible, but is not currently seeking to be as 
 accessible as this site.
