@@ -21,7 +21,7 @@ Some CivicActions Data Science sponsored spaces may have additional rules in
 place, which will be made clearly available to participants. Participants are 
 responsible for knowing and abiding by these rules.
 
-### Definitions
+## Definitions
 
 Harassment includes:
 
@@ -65,7 +65,7 @@ or "I'm not discussing this with you."
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or 
 assumptions
 
-### Reporting
+## Reporting
 
 If you are being harassed by a member of the CivicActions Data Science 
 community, notice that someone else is being harassed, or have any other 
@@ -96,7 +96,7 @@ we believe that doing so will increase the safety of CivicActions Data Science
 members or the general public. We will not name harassment victims without their 
 affirmative consent.
 
-### Consequences
+## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply 
 immediately.
